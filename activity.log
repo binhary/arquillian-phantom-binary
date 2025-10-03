@@ -81,3 +81,4 @@
 2025-01-21 18:30:00 | DEBUG | repo=arquillian-phantom-binary | action=commit
 2025-03-17 13:17:00 | DEBUG | repo=arquillian-phantom-binary | action=commit
 2025-03-26 15:53:00 | DEBUG | repo=arquillian-phantom-binary | action=commit
+2025-10-02 18:55:00 | WARN | repo=arquillian-phantom-binary | action=commit
